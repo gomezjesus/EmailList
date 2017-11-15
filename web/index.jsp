@@ -7,7 +7,7 @@
     </head>
     <body>
         <jsp:include page="navbar.html" flush="true" />
-        <h1>Join our email list</h1>
+        <h1>Join our email list, PLEASE :)</h1>
         <p>To join our email list, enter your name and
             email address below.</p>
         <form action="emailList" method="post">
